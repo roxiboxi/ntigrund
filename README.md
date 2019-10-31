@@ -1,2 +1,2 @@
-# test
-Test av github
+# Projekt Rovdjur
+Utveckling av projektet rovdjur
