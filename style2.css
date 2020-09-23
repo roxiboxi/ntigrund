@@ -1,0 +1,20 @@
+body {
+
+    background-color:lightblue;
+}
+h1{
+    background-color:orange;
+    font-family: verdana;
+}
+h2{
+
+    font-family:verdana;
+    font-size:14px;
+}
+.spacing {
+    letter-spacing: 10px;
+}
+li{
+
+    font-weight: 900;
+}
